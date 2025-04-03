@@ -11,7 +11,7 @@ describe('Demo Tests', function () {
         browser.keys('Enter')
 
         
-        browser.pause(4000)
+        browser.pause(6000)
 
     })
 })
